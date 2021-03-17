@@ -3,11 +3,11 @@ import random
 import time
 
 reddit = praw.Reddit(
-    client_id="3D8wQy3XcNc0SQ",
-    client_secret="KGA6GZyJrmfsXcqtAq8GJzVPlkVxfQ",
-    user_agent="<<console:Nightwing-Bot>>",
-    username="Nightwing-Bot",
-    password="MilesWJames062704"
+    client_id="REDACTED",
+    client_secret="REDACTED",
+    user_agent="REDACTED",
+    username="REDACTED",
+    password="REDACTED"
 )
 
 quotes = ["The Batman taught me, guided me, trained me. What I am I owe to him. What more can I say? And Superman. I grew up in your shadow, too. You taught me honor, selflessness, and the true meaning of the word 'hero.' … I'm the sum of so many people who have influenced me, shaped my thinking, and given me love. Mom and Dad, you were the first … what you gave me will never leave. It's forever locked in my heart and in my soul. Batman, you took in a young, frightened boy. And you showed him how to become a good man. Kory, it's so funny. I spent the better part of last year fighting to forget what made me me. I almost alienated everyone, but you stuck by me and I love you for that. I gave up being Robin because that tied me to Batman. But now I become someone new who commemorates all those who made me someone special.", "Hard to imagine me without the Titans, either. I think the Titans helped define me. I was always the bottom half of Batman and … Now I'm Nightwing, myself. No junior partner. Whatever I do from now on is my choice. It's scary sometimes. But it's always a lot easier to let others tell you what to do. Don't quite feel like an adult yet, but I think I've grown up … I certainly don't make decisions rashly anymore. And I wouldn't quit college today just to rebel against Bruce. Fortunately, some mistakes can be fixed… Yeah, I'm grown up, but I still don't know what I'm going to do when I'm really grown up…. Doctor, lawyer, indian chief? They all sound good to me. What do I do when I take off my costume? If I were Batman, I'd become Bruce Wayne, professional cypher. I think he'd give up being Bruce in a second if he thought Batman could go out during the day. I can't. I need my normal life. Bats need the night. Robins need light.",
