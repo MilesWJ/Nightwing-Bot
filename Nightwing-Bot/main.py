@@ -3,11 +3,11 @@ import random
 import time
 
 reddit = praw.Reddit(
-    client_id="3D8wQy3XcNc0SQ",
-    client_secret="KGA6GZyJrmfsXcqtAq8GJzVPlkVxfQ",
-    user_agent="<<console:Nightwing-Bot>>",
-    username="Nightwing-Bot",
-    password="MilesWJames062704"
+    client_id="REDACTED",
+    client_secret="REDACTED",
+    user_agent="REDACTED",
+    username="REDACTED",
+    password="REDACTED"
 )
 
 
